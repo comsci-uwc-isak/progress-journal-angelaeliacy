@@ -7,4 +7,25 @@ the folder that we to create. Next we can create file in our folder. we can use 
 learned about (nano), I forgot what we can do with nano.
 
 Wed 4th September
-Today we studied about how create  
+Today we studied about how to  create a program that by entering the numbers
+or data we can find the answer. First we need to do is to install the GitHub
+then we can create a program. For example we decide to create a program for 
+finding our age in days. what we need to do is to write 
+#!/bin/bash
+#This is a comment
+#This program will calculate my age in days 
+((age = 365 * 17))
+echo " My age in day"
+
+Then save it by pressing CTRL+X then y
+
+for using the programing write : 
+bash+ name of your program. Then you can enter the numbers and get the answer.
+
+Second program was to create a program for calculating the area of rectangel. 
+create area.sh 
+calculate the area of rectangel 
+nano+ name of the file 
+bash+ name of the program 
+ 
+  
