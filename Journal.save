@@ -27,14 +27,8 @@ create area.sh
 calculate the area of rectangel 
 nano+ name of the file 
 bash+ name of the program 
-
- Thursday 5 September 
-Today we worked on creating a progaram. for example we created a program for the price of ice cream for an ice cream factory. what I learned today is we can create 
-program by entering the name of the program+.sh .Then we can add our comments like what this program is for and how it workes by using echo. when we write echo then a 
-comment so that comment will be seen by users.After echo we should write (read number/x/iteam). then the program will read the number we enter. 
-(git add .) is using for adding changes or new files
-(git commit -m "message" ) for adding message
-(git push -sync with cloud.
-    
  
-  
+Thursday 5 September
+Today we studied about how to create a program like a program for an icecream shop. I understood about 
+git add .
+git   
