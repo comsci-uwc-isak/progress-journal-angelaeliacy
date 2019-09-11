@@ -36,5 +36,10 @@ comment so that comment will be seen by users.After echo we should write (read n
 (git commit -m "message" ) for adding message
 (git push -sync with cloud.
     
+Wed 11 September 
+ Today we worked on while loops. When we want to create a game and the game needs to loop I mean come back to the first and then end the game, 
+what we need to do is to write while then  the condition and then we can add other comments like if the condition is like this, then.  condition is true so we can continue the game and
+ we can set other conditions. 
+ 
  
   
