@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# This program can show the price of the food you select.
+# This user provides the dimentions
+
+echo "Enter the number of the food. press ENTER"
+read number
+
+((1- Rice=20$))
+((2-Meat=10$))
+

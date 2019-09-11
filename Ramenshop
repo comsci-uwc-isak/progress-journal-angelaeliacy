@@ -1,0 +1,7 @@
+#!/bin/bash
+#This is a comment
+#This program will tell you the price of the food that you select.
+
+((1- Rice ))
+echo "10$"
+

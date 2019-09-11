@@ -1,0 +1,19 @@
+#!/bin/bash
+# This is a comment
+# This program can show you the price of five delicious foods of Ramen Shop
+((1- Miso Ramen ))
+((2- Shouyu Ramen  ))
+((3-Shio Ramen ))
+((4-Pinky Ramen ))
+((5- Masala Ramen ))
+ 
+echo "please select a number" Press ENTER
+read number 
+
+((1= 40$))
+((2=30$))
+((3=20$))
+((4-50$))
+((5=25$)) 
+ 
+
